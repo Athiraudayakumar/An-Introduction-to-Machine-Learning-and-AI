@@ -1,0 +1,7 @@
+# Virtual Environment
+venv/
+CaseStudy/PDFClassification/venv/
+
+# Python cache
+__pycache__/
+*.pyc
